@@ -1,0 +1,21 @@
+{
+  "syncDate": "2026-06-21",
+  "projects": [
+    { "id": "milhas",       "name": "Curso de Milhas",        "color": "#2563eb" },
+    { "id": "leiloes",      "name": "Curso de Leilões",       "color": "#9333ea" },
+    { "id": "mercadolivre", "name": "Vendas no Mercado Livre", "color": "#f59e0b" }
+  ],
+  "tasks": [
+    { "id": "milhas-1", "project": "milhas", "text": "Criar e definir o nome da marca" },
+    { "id": "milhas-2", "project": "milhas", "text": "Criar o Instagram" },
+    { "id": "milhas-3", "project": "milhas", "text": "Criar os Voe por cidade" },
+    { "id": "milhas-4", "project": "milhas", "text": "Criar base de dados com as ofertas de milhas e passagens" },
+    { "id": "milhas-5", "project": "milhas", "text": "Lançar os Voe com as oportunidades de milhas" },
+    { "id": "milhas-6", "project": "milhas", "text": "Enviar em massa o link do Instagram para os contatos já capturados no banco de dados do tema" },
+    { "id": "leiloes-1", "project": "leiloes", "text": "Criar uma AI Bot no Telegram" },
+    { "id": "leiloes-2", "project": "leiloes", "text": "Criar a lista de leilões em desconto por cidade + calendário de divulgação" },
+    { "id": "leiloes-3", "project": "leiloes", "text": "Criar um Banner" },
+    { "id": "leiloes-4", "project": "leiloes", "text": "Criar novos conteúdos de Reels para abastecer o calendário" },
+    { "id": "leiloes-5", "project": "leiloes", "text": "Criar o Banner de desconto do curso (primeira oferta de desconto)" }
+  ]
+}
