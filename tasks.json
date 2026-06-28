@@ -1,5 +1,5 @@
 {
-  "syncDate": "2026-06-27",
+  "syncDate": "2026-06-28",
   "projects": [
     {
       "id": "milhas",
@@ -77,6 +77,11 @@
       "id": "leiloes-5",
       "project": "leiloes",
       "text": "Criar o Banner de desconto do curso (primeira oferta de desconto)"
+    },
+    {
+      "id": "milhas-8",
+      "project": "milhas",
+      "text": "Rodar a base de milhas de agosto e setembro (mesmas cidades e programas usados em julho/outubro)"
     }
   ]
 }
