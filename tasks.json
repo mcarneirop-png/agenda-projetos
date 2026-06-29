@@ -1,5 +1,5 @@
 {
-  "syncDate": "2026-06-28",
+  "syncDate": "2026-06-29",
   "projects": [
     {
       "id": "milhas",
@@ -82,6 +82,11 @@
       "id": "milhas-8",
       "project": "milhas",
       "text": "Rodar a base de milhas de agosto e setembro (mesmas cidades e programas usados em julho/outubro)"
+    },
+    {
+      "id": "milhas-9",
+      "project": "milhas",
+      "text": "Criar o template de post “Cartão de Embarque” para divulgar as oportunidades de passagens/milhas"
     }
   ]
 }
