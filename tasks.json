@@ -1,5 +1,5 @@
 {
-  "syncDate": "2026-06-29",
+  "syncDate": "2026-06-30",
   "projects": [
     {
       "id": "milhas",
@@ -87,6 +87,11 @@
       "id": "milhas-9",
       "project": "milhas",
       "text": "Criar o template de post “Cartão de Embarque” para divulgar as oportunidades de passagens/milhas"
+    },
+    {
+      "id": "leiloes-6",
+      "project": "leiloes",
+      "text": "Elevar o nível de confiança da avaliação de mercado dos imóveis em leilão de SP — buscar mais anúncios no mesmo endereço/rua e cruzar com outros portais (VivaReal → QuintoAndar → Chaves na Mão)"
     }
   ]
 }
